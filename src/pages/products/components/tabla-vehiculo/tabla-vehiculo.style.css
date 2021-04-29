@@ -1,0 +1,12 @@
+.tabla-vehiculo-container {
+    width: 95%;
+    margin: 0 auto;/*arriba y abajo =  0         en los lados automatico*/
+    min-height: 550px;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+
+.products-form{
+    display: flex;   
+    justify-content: center;
+}
